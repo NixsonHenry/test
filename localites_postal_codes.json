@@ -1,0 +1,23 @@
+[
+    {
+        "Section Communale": "Delmas",
+        "Localit\u00e9": "Delmas 1",
+        "Code Postal de Base": "1234",
+        "Nouveau Code Postal": "1234-001",
+        "increment": 1
+    },
+    {
+        "Section Communale": "Delmas",
+        "Localit\u00e9": "Delmas 2",
+        "Code Postal de Base": "1234",
+        "Nouveau Code Postal": "1234-002",
+        "increment": 2
+    },
+    {
+        "Section Communale": "Limbe",
+        "Localit\u00e9": "Soufriere",
+        "Code Postal de Base": "1612",
+        "Nouveau Code Postal": "1612-001",
+        "increment": 1
+    }
+]
